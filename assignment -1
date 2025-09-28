@@ -1,0 +1,25 @@
+<html>
+<head>
+<title> My first HTML page </title>
+</head>
+<body>
+<h1> My name is :- Harsh Yadav <br>
+    My Father's name is :- Mr. Ajay Singh Yadav  <br>
+    My Mother's name is :- Mrs. Arpana Yadav
+</h1>
+<h2>
+My branch is :- CSE 
+<br>
+My section is :- 18   
+</h2>
+<p> 
+    My address is - THE Pg <br>
+    Jaat chowk, ABES college road<br>
+    Chipiyana buzurg, Ghaziabad ,Uttar pradesh
+</p>
+
+
+
+
+</body>
+</html>
